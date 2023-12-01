@@ -1,0 +1,15 @@
+/home/thaianne/Área de Trabalho/DEV/Programtest/bin/Debug/net7.0/Programtest
+/home/thaianne/Área de Trabalho/DEV/Programtest/bin/Debug/net7.0/Programtest.deps.json
+/home/thaianne/Área de Trabalho/DEV/Programtest/bin/Debug/net7.0/Programtest.runtimeconfig.json
+/home/thaianne/Área de Trabalho/DEV/Programtest/bin/Debug/net7.0/Programtest.dll
+/home/thaianne/Área de Trabalho/DEV/Programtest/bin/Debug/net7.0/Programtest.pdb
+/home/thaianne/Área de Trabalho/DEV/Programtest/obj/Debug/net7.0/Programtest.csproj.AssemblyReference.cache
+/home/thaianne/Área de Trabalho/DEV/Programtest/obj/Debug/net7.0/Programtest.GeneratedMSBuildEditorConfig.editorconfig
+/home/thaianne/Área de Trabalho/DEV/Programtest/obj/Debug/net7.0/Programtest.AssemblyInfoInputs.cache
+/home/thaianne/Área de Trabalho/DEV/Programtest/obj/Debug/net7.0/Programtest.AssemblyInfo.cs
+/home/thaianne/Área de Trabalho/DEV/Programtest/obj/Debug/net7.0/Programtest.csproj.CoreCompileInputs.cache
+/home/thaianne/Área de Trabalho/DEV/Programtest/obj/Debug/net7.0/Programtest.dll
+/home/thaianne/Área de Trabalho/DEV/Programtest/obj/Debug/net7.0/refint/Programtest.dll
+/home/thaianne/Área de Trabalho/DEV/Programtest/obj/Debug/net7.0/Programtest.pdb
+/home/thaianne/Área de Trabalho/DEV/Programtest/obj/Debug/net7.0/Programtest.genruntimeconfig.cache
+/home/thaianne/Área de Trabalho/DEV/Programtest/obj/Debug/net7.0/ref/Programtest.dll
