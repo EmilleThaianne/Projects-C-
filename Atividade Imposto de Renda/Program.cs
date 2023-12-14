@@ -11,15 +11,15 @@ namespace ImpostodeRenda{
         static void Main (string[] args){
             
             Console.Write("\nInforme o valor do seu salário bruto: ");
-            string opcaoinformada = Console.ReadLine()!;
-            int salariobruto = int.Parse(opcaoinformada);
+            string informadosalario = Console.ReadLine()!;
+            int salariobruto = int.Parse(informadosalario);
 
             Console.Write("\nInforme o número de dependentes que possui: ");
-            string opcaoinformado = Console.ReadLine()!;
-            int numdependent = int.Parse(opcaoinformado);
+            string informadodependentes = Console.ReadLine()!;
+            int numdependent = int.Parse(informadodependentes);
 
             double salarioliquido = calculo(salariobruto,numdependent);
-            Console.WriteLine($"\nO seu salário Liquido é: {salarioliquido} ");
+            Console.WriteLine($"\nO seu Salário Liquido é: {salarioliquido} ");
             Console.ReadKey();
 
             double calculo( double salariobruto_, int numdependent_){
@@ -27,10 +27,10 @@ namespace ImpostodeRenda{
                 double inss = 0.14*salariobruto_;
                 double impostoRetido;
 
-                if ((salariobruto_ - inss) <= 2112.66 ){
+                if ((salariobruto_ - inss) <= 2112){
                     impostoRetido = 0;
 
-                } else if ((salariobruto_ - inss) <= 2826.60){
+                } else if ((salariobruto_ - inss) <= 2826.66){
                     impostoRetido = (salariobruto_ - inss)*0.075-158.40;
 
                 } else if ((salariobruto_ - inss) <= 3751.06){
@@ -42,7 +42,9 @@ namespace ImpostodeRenda{
                 } else {
                     impostoRetido = (salariobruto_-inss)*0.275-884.96;
                 }
-                double descontoPlanoTotal = numdependent_*189;
+
+                const double descontoPlanoSaudePorDependente = 189;
+                double descontoPlanoTotal = numdependent_*descontoPlanoSaudePorDependente;
 
                 return salariobruto_-inss-impostoRetido-descontoPlanoTotal;      
 
