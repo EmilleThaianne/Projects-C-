@@ -1,0 +1,15 @@
+/home/thaianne/Área de Trabalho/DEV/Atividade Imposto de Renda/bin/Debug/net7.0/Atividade Imposto de Renda
+/home/thaianne/Área de Trabalho/DEV/Atividade Imposto de Renda/bin/Debug/net7.0/Atividade Imposto de Renda.deps.json
+/home/thaianne/Área de Trabalho/DEV/Atividade Imposto de Renda/bin/Debug/net7.0/Atividade Imposto de Renda.runtimeconfig.json
+/home/thaianne/Área de Trabalho/DEV/Atividade Imposto de Renda/bin/Debug/net7.0/Atividade Imposto de Renda.dll
+/home/thaianne/Área de Trabalho/DEV/Atividade Imposto de Renda/bin/Debug/net7.0/Atividade Imposto de Renda.pdb
+/home/thaianne/Área de Trabalho/DEV/Atividade Imposto de Renda/obj/Debug/net7.0/Atividade Imposto de Renda.csproj.AssemblyReference.cache
+/home/thaianne/Área de Trabalho/DEV/Atividade Imposto de Renda/obj/Debug/net7.0/Atividade Imposto de Renda.GeneratedMSBuildEditorConfig.editorconfig
+/home/thaianne/Área de Trabalho/DEV/Atividade Imposto de Renda/obj/Debug/net7.0/Atividade Imposto de Renda.AssemblyInfoInputs.cache
+/home/thaianne/Área de Trabalho/DEV/Atividade Imposto de Renda/obj/Debug/net7.0/Atividade Imposto de Renda.AssemblyInfo.cs
+/home/thaianne/Área de Trabalho/DEV/Atividade Imposto de Renda/obj/Debug/net7.0/Atividade Imposto de Renda.csproj.CoreCompileInputs.cache
+/home/thaianne/Área de Trabalho/DEV/Atividade Imposto de Renda/obj/Debug/net7.0/Atividade Imposto de Renda.dll
+/home/thaianne/Área de Trabalho/DEV/Atividade Imposto de Renda/obj/Debug/net7.0/refint/Atividade Imposto de Renda.dll
+/home/thaianne/Área de Trabalho/DEV/Atividade Imposto de Renda/obj/Debug/net7.0/Atividade Imposto de Renda.pdb
+/home/thaianne/Área de Trabalho/DEV/Atividade Imposto de Renda/obj/Debug/net7.0/Atividade Imposto de Renda.genruntimeconfig.cache
+/home/thaianne/Área de Trabalho/DEV/Atividade Imposto de Renda/obj/Debug/net7.0/ref/Atividade Imposto de Renda.dll

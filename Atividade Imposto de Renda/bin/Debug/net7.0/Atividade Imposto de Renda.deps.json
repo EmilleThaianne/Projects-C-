@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Atividade Imposto de Renda/1.0.0": {
+        "runtime": {
+          "Atividade Imposto de Renda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade Imposto de Renda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
