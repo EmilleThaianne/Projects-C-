@@ -1,0 +1,14 @@
+/home/thaianne/Documentos/DEV/Projeto_Podcast/bin/Debug/net8.0/Projeto_Podcast
+/home/thaianne/Documentos/DEV/Projeto_Podcast/bin/Debug/net8.0/Projeto_Podcast.deps.json
+/home/thaianne/Documentos/DEV/Projeto_Podcast/bin/Debug/net8.0/Projeto_Podcast.runtimeconfig.json
+/home/thaianne/Documentos/DEV/Projeto_Podcast/bin/Debug/net8.0/Projeto_Podcast.dll
+/home/thaianne/Documentos/DEV/Projeto_Podcast/bin/Debug/net8.0/Projeto_Podcast.pdb
+/home/thaianne/Documentos/DEV/Projeto_Podcast/obj/Debug/net8.0/Projeto_Podcast.GeneratedMSBuildEditorConfig.editorconfig
+/home/thaianne/Documentos/DEV/Projeto_Podcast/obj/Debug/net8.0/Projeto_Podcast.AssemblyInfoInputs.cache
+/home/thaianne/Documentos/DEV/Projeto_Podcast/obj/Debug/net8.0/Projeto_Podcast.AssemblyInfo.cs
+/home/thaianne/Documentos/DEV/Projeto_Podcast/obj/Debug/net8.0/Projeto_Podcast.csproj.CoreCompileInputs.cache
+/home/thaianne/Documentos/DEV/Projeto_Podcast/obj/Debug/net8.0/Projeto_Podcast.dll
+/home/thaianne/Documentos/DEV/Projeto_Podcast/obj/Debug/net8.0/refint/Projeto_Podcast.dll
+/home/thaianne/Documentos/DEV/Projeto_Podcast/obj/Debug/net8.0/Projeto_Podcast.pdb
+/home/thaianne/Documentos/DEV/Projeto_Podcast/obj/Debug/net8.0/Projeto_Podcast.genruntimeconfig.cache
+/home/thaianne/Documentos/DEV/Projeto_Podcast/obj/Debug/net8.0/ref/Projeto_Podcast.dll
