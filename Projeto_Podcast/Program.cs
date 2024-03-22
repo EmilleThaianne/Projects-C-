@@ -1,4 +1,6 @@
-﻿using Projeto_Podcast;
+// IFBA     Turma: 4º TI     Dupla: Davi Cunha e Emille Thaianne
+
+using Projeto_Podcast;
 
 Podcast podcast = new Podcast("Inteligência Ltda.", 1);
 
