@@ -1,0 +1,10 @@
+D:\DEV\Validando_Data_Nasc\Validando_Data_Nasc\bin\Debug\Validando_Data_Nasc.exe.config
+D:\DEV\Validando_Data_Nasc\Validando_Data_Nasc\bin\Debug\Validando_Data_Nasc.exe
+D:\DEV\Validando_Data_Nasc\Validando_Data_Nasc\bin\Debug\Validando_Data_Nasc.pdb
+D:\DEV\Validando_Data_Nasc\Validando_Data_Nasc\obj\Debug\Validando_Data_Nasc.csproj.AssemblyReference.cache
+D:\DEV\Validando_Data_Nasc\Validando_Data_Nasc\obj\Debug\Validando_Data_Nasc.Form1.resources
+D:\DEV\Validando_Data_Nasc\Validando_Data_Nasc\obj\Debug\Validando_Data_Nasc.Properties.Resources.resources
+D:\DEV\Validando_Data_Nasc\Validando_Data_Nasc\obj\Debug\Validando_Data_Nasc.csproj.GenerateResource.cache
+D:\DEV\Validando_Data_Nasc\Validando_Data_Nasc\obj\Debug\Validando_Data_Nasc.csproj.CoreCompileInputs.cache
+D:\DEV\Validando_Data_Nasc\Validando_Data_Nasc\obj\Debug\Validando_Data_Nasc.exe
+D:\DEV\Validando_Data_Nasc\Validando_Data_Nasc\obj\Debug\Validando_Data_Nasc.pdb
